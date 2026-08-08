@@ -1,2 +1,7 @@
-# computing-labs
-Interactive computing labs and educational activities for computing courses.
+# Computing Labs
+
+This repository contains educational computing activities, demonstrations, and labs developed for computer science courses.
+
+Current modules:
+
+- Graph Representations
