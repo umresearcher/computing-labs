@@ -5,3 +5,7 @@ This repository contains educational computing activities, demonstrations, and l
 Current modules:
 
 - Graph Representations
+
+## Reuse and Adaptation
+
+Educators are encouraged to adopt, modify, and adapt these materials for their own courses. Please cite the repository when practical.

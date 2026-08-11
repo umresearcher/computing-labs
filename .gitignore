@@ -3,6 +3,16 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# VS Code workspace settings (optional)
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
 # C extensions
 *.so
 
